@@ -3,6 +3,8 @@
 
 [PA04 Write-Up](https://markefontenot.notion.site/PA-04-BattleSalvo-Part-2-20ff66267da84956b35794bf8452c2fd)
 
+Developed by Ren Taguchi and Nagi Aboushaca
+
 This template includes several additional tools:
 1. Gradle Build Automation
 1. JaCoCo for Test Coverage
